@@ -2,7 +2,9 @@
 
 A small project to maintain static web home for my raspberry pi.
 
-## deployment
+## Deployment
+
+Deploy to `uberpi` on local network. Assumes ssh keys are set up.
 
 ```
 ./scripts/deploy.sh
